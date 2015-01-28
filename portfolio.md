@@ -6,9 +6,9 @@ layout: page
 
 Here are 5 projects i have completed over the years.
 
-1. [Movie Poster](about)
-2. Reconstruction of a Website
-3. Final Website Project about soccer
-4. Images out of Letters
-5. Redesigning the CROCS logo
+1. [Movie Poster](Movie-Poster)
+2. [Reconstruction](Reconstruction) of a Website
+3. Final Website Project about [Soccer](Soccer Website)
+4. Images out of [Letters](Lettered Images)
+5. Redesigning the [CROCS](CROCS) logo
 
