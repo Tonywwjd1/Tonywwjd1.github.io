@@ -2,6 +2,6 @@
 layout: post
 ---
 
-[Reconstruction](https://www.flickr.com/photos/130873597@N06/16383776771/in/photostream/)
+[Reconstruction](https://farm9.staticflickr.com/8651/16383776771_4331c9fec2_s.jpg)
 
 Reconstruction of a Website for a Basics of Web Designing Class
