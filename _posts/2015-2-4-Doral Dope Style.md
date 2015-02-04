@@ -3,7 +3,7 @@ layout: post
 ---
 >Introducing the New Dance Crew!
 
-Welcome to Hip Hop Dance Miami! Have you ever seen those crazy dance movies like step up or you got served? 
+Welcome to [Hip Hop Dance Miami!](http://hiphopdancemiami.com/) Have you ever seen those crazy dance movies like step up or you got served? 
 All those dancers started somewhere. They either danced since they were just a young boy/girl or later go into the groove. 
 Regardless the case may be, anyone can learn how to dance. It doesn’t matter how out of beat you are or can’t keep a rhythm.
 As the founder of Hip Hop Dance Miami, I Anthony Santacruz, didn’t start dancing till I was at least 15 years old. All the
