@@ -3,7 +3,7 @@ layout: post
 ---
 This is actually a picture of me 
 # DANCING IN THE MIDDLE OF CLASS / 2ND SEMESTER AT MIU
-[FREEZE](https://farm8.staticflickr.com/7339/16259195109_fc45f27af6_s.jpg)
+[FREEZE](https://flic.kr/p/qLLCfa)
 I started dancing when i was like
 ## 15 Years Old
 pretty crazy right? Everyone starts somewhere.
