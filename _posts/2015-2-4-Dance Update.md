@@ -2,7 +2,7 @@
 layout: post
 ---
 This is actually a picture of me 
-# dancing in the middle of class in my 2nd semester of attending MIU.
+# DANCING IN THE MIDDLE OF CLASS / 2ND SEMESTER AT MIU
 [FREEZE](https://farm8.staticflickr.com/7339/16259195109_fc45f27af6_s.jpg)
 I started dancing when i was like
 ## 15 Years Old
