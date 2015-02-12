@@ -15,7 +15,7 @@ My names Anthony but people call me Tony and i prefer it actually! My major is W
 Follow me on...
 
 * [Instagram](http://instagram.com/tonehh_atw/)
-* [https://vine.co/u/1069204419931152384](Vine)
+* [Vine](https://vine.co/u/1069204419931152384)
 
 ### Contact me
 
