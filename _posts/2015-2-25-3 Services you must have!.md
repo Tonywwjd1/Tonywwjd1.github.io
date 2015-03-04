@@ -11,10 +11,9 @@ We have premium packages for each, but what does that mean?
 * More Revisions
 * Updates Included
 
-| First Header  | Second Header |
+| Web Development   | Payment |
 | ------------- | ------------- |
-| Domain  | $10/yr |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Domain  | $10/year |
+| Hosting  | $10-$100/year  |
+| Continued Maintenance  | $500-Up/Year  |
+| Marketing Website Online  | $750-Up/Year  |
