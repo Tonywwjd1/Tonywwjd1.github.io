@@ -61,7 +61,21 @@ We have premium packages for each, but what does that mean?
 </tbody>
 </table>
 
-| Logo Development  | Payment |
-| ------------- | ------------- |
-| Hourly  | $8-$500/hr  |
-| Project Based  | $250-$2500/month  |
+<table>
+<thead>
+<tr>
+<th>Logo Development</th>
+<th>Payment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hourly</td>
+<td>$8-$500/hr</td>
+</tr>
+<tr>
+<td>Project Based</td>
+<td>$250-$2500/month</td>
+</tr>
+</tbody>
+</table>
