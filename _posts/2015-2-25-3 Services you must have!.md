@@ -38,11 +38,28 @@ We have premium packages for each, but what does that mean?
 </tbody>
 </table>
 
-| SEO | Payment |
-| ------------- | ------------- |
-| Monthly | $750-$5,000/Month |
-| Project Based | $1,000-$30,000/month |
-| Hour Consulting Rate | $100-$300/hr |
+<table>
+<thead>
+<tr>
+<th>SEO</th>
+<th>Payment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Monthly</td>
+<td>$750-$5,000/Month</td>
+</tr>
+<tr>
+<td>Project Based</td>
+<td>$1,000-$30,000/month</td>
+</tr>
+<tr>
+<td>Hour Consulting Rate</td>
+<td>$100-$300/hr</td>
+</tr>
+</tbody>
+</table>
 
 | Logo Development  | Payment |
 | ------------- | ------------- |
