@@ -11,12 +11,32 @@ We have premium packages for each, but what does that mean?
 * More Revisions
 * Updates Included
 
-| Web Development | Payment |
-| ------------- | ------------- |
-| Domain | $10/year |
-| Hosting | $10-$100/year |
-| Continued Maintenance | $500-Up/Year |
-| Marketing Website Online  | $750-Up/Year |
+<table>
+<thead>
+<tr>
+<th>Web Development</th>
+<th>Payment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Domain</td>
+<td>$10/year</td>
+</tr>
+<tr>
+<td>Hosting</td>
+<td>$10-$100/year</td>
+</tr>
+<tr>
+<td>Continued Maintenance</td>
+<td>$500-Up/Year</td>
+</tr>
+<tr>
+<td>Marketing Website Online</td>
+<td>$750-Up/Year</td>
+</tr>
+</tbody>
+</table>
 
 | SEO | Payment |
 | ------------- | ------------- |
