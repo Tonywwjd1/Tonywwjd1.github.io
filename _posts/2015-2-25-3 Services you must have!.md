@@ -38,6 +38,8 @@ We have premium packages for each, but what does that mean?
 </tbody>
 </table>
 
+<br>
+
 <table>
 <thead>
 <tr>
@@ -60,6 +62,8 @@ We have premium packages for each, but what does that mean?
 </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <thead>
