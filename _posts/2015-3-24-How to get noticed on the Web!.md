@@ -16,24 +16,24 @@ with this post I will explain how it doesn’t have to be that way. Well, there'
 
 ##Ready? Let's dive in. 
 
-# 10 Step to get noticed on the WEB! 
+# Steps to get noticed on the WEB! 
 
-1. Why Social Media? 
+- Why Social Media? 
 
-2. Is it really worth it?
+- Is it really worth it?
 
-3. Getting Started...
+- Getting Started...
 
-4. What your profiles have to look like
+- What your profiles have to look like
 
-5. Posts have to be consistent.
+- Posts have to be consistent.
 
-6. Create "grabber" titles
+- Create "grabber" titles
 
-7. Content is as interesting as title.
+- Content is as interesting as title.
 
-8. Don't be a "one post wonder"
+- Don't be a "one post wonder"
 
-9. Connect with your website and other social media pages
+- Connect with your website and other social media pages
 
-10. Nothing left to do except sell yourself!
+- Nothing left to do except sell yourself!
