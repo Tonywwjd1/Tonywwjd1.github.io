@@ -83,3 +83,5 @@ We have premium packages for each, but what does that mean?
 </tr>
 </tbody>
 </table>
+
+As a reminder my e-mail is in the about me page of this blog so if you have any questions, comments, and or concerns just send me an e-mail. Negotiation of price is available always.
